@@ -1,1 +1,3 @@
-2 Editor 02
+Editor - 01
+This is a test of git.
+You will see that in the github.
