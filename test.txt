@@ -9,3 +9,6 @@ git add .
 git commit -m "test editor 02"
 git push
 git status
+
+
+This is the test from github, and you will see it if you type "git pull" in your local computer.
