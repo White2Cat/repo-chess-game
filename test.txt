@@ -1,3 +1,11 @@
 Editor - 01
 This is a test of git.
 You will see that in the github.
+
+Editor - 02
+This is Editor 02
+git status
+git add .
+git commit -m "test editor 02"
+git push
+git status
